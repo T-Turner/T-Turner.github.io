@@ -4,5 +4,7 @@ This site contains the code repository used in Math 5620. The code repository in
 
 ### Editing Links
 Edit: [editor on GitHub](https://github.com/T-Turner/T-Turner.github.io/edit/master/index.md)
+
 Themes: [repository settings](https://github.com/T-Turner/T-Turner.github.io/settings)
+
 Support: [documentation](https://help.github.com/categories/github-pages-basics/) 
