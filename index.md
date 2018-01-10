@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Math 5620
 
-You can use the [editor on GitHub](https://github.com/T-Turner/T-Turner.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This site contains homework for Math 5620. The code repository includes functions, operators, and useful snippets of code that are used to solve partial and differential equations numerically.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Edit Press: [editor on GitHub](https://github.com/T-Turner/T-Turner.github.io/edit/master/index.md)
 
 ### Markdown
 
@@ -29,9 +29,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/T-Turner/T-Turner.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[repository settings](https://github.com/T-Turner/T-Turner.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[documentation](https://help.github.com/categories/github-pages-basics/) 
