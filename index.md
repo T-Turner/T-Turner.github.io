@@ -1,6 +1,6 @@
 ## Math 5620
 
-This site contains homework for Math 5620. The code repository includes functions, operators, and useful snippets of code that are used to solve partial and differential equations numerically.
+This site contains the code repository used in Math 5620. The code repository includes functions, operators, and useful snippets of code that are used to solve partial and differential equations numerically. 
 
 Edit Press: [editor on GitHub](https://github.com/T-Turner/T-Turner.github.io/edit/master/index.md)
 
