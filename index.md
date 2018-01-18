@@ -5,4 +5,5 @@ This site contains the code repository used in Math 5620. The code repository in
 [Code for Machine Epsilon](https://t-turner.github.io/epsilon)
 
 ## Absolute and Relative Error
+[Code for Error](https://t-turner.github.io/error)
 
