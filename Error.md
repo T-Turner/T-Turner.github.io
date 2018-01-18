@@ -5,7 +5,7 @@ layout: default
 
 ## Absolute and Relative Error
 
-### Name: Machine Epsilon
+### Name: Error
 
 ### Author: Trevor Turner
 
