@@ -1,5 +1,5 @@
 ---
-permalink: /Error
+permalink: /error
 layout: default
 ---
 
