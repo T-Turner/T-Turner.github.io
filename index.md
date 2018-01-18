@@ -2,6 +2,6 @@
 This site contains the code repository used in Math 5620. The code repository includes functions, operators, and useful snippets of code that are used to solve partial and differential equations numerically.
 
 ## Machine Epsilon
-[Press to find code] https://wwww.t-turner.github.io/epsilon
+https://wwww.t-turner.github.io/epsilon
 
 
