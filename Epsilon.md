@@ -37,13 +37,13 @@ The code is implemented in the following manner:
 ```c++
 void find_epsilon()//fuction
 {
-	double epsilon, mach_epsilon = 2;		//initialize values, and sets mach_epsilon to an arbitrary value
-	while (1 + mach_epsilon != 1)			//iterates to make sure error is not zero (which is impossible)
+	double epsilon, mach_epsilon = 2;	//initialize values, and sets mach_epsilon to an arbitrary value
+	while (1 + mach_epsilon != 1)		//iterates to make sure error is not zero (which is impossible)
 	{
-		epsilon = mach_epsilon;				//saves previous epsilon
-		mach_epsilon /= 2;					//goes to the next step
+		epsilon = mach_epsilon;		//saves previous epsilon
+		mach_epsilon /= 2;		//goes to the next step
 	}
-	std::cout << std::setprecision(6);		//sets the number of significant figures output
+	std::cout << std::setprecision(6);	//sets the number of significant figures output
 	std::cout << "Machine Epsilon is: ";	//output
 	std::cout << 2 * epsilon << std::endl;	//output info
 }
