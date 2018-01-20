@@ -5,7 +5,7 @@ layout: default
 
 ##Solution of dP/dt=aP+b*P^2
 
-### Name: Ode_easy1
+### Name: Ode1
 
 ### Author: Trevor Turner
 
