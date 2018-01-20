@@ -1,5 +1,5 @@
 ---
-permalink: /ode_easy1
+permalink: /ode1
 layout: default
 ---
 
