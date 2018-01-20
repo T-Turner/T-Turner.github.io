@@ -7,3 +7,5 @@ This site contains the code repository used in Math 5620. The code repository in
 ## Absolute and Relative Error
 [Code for Error](https://t-turner.github.io/error)
 
+## Simple ODE Solver dp/dt=a*p+b*p^2
+[ODE Solution](https://t-turner.github.io/ode1)
