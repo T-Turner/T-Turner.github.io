@@ -3,8 +3,6 @@ permalink: /ode2
 layout: default
 ---
 
-##Solution of dP/dt=aP+b*P^2
-
 ### Name: Ode2
 
 ### Author: Trevor Turner
