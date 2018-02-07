@@ -24,3 +24,6 @@ This site contains the code repository used in Math 5620. The code repository in
 
 ### Find coefficients
 [Find Coefficients](https://t-turner.github.io/findcoeffd)
+
+### Thomas Algorithm
+[Thomas algorithm](https://t-turner.github.io/thomasalg)
