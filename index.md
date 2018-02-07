@@ -16,3 +16,8 @@ This site contains the code repository used in Math 5620. The code repository in
 
 ### Spring mass damper RK solver mx"+cx'+kx=f(t)
 [Spring Mass Damper System](https://t-turner.github.io/ode2)
+
+## Finite Difference
+
+### Find coefficients
+[Find Coefficients](https://t-turner.github.io/coeffFD)
