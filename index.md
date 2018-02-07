@@ -9,6 +9,9 @@ This site contains the code repository used in Math 5620. The code repository in
 ### Absolute and Relative Error
 [Code for Error](https://t-turner.github.io/error)
 
+### Initial Conditions
+[Conditions](https://t-turner.github.io/initialcond)
+
 ## Solutions:
 
 ### Simple ODE Solver dp/dt=a*p+b*p^2
@@ -20,4 +23,4 @@ This site contains the code repository used in Math 5620. The code repository in
 ## Finite Difference
 
 ### Find coefficients
-[Find Coefficients](https://t-turner.github.io/coeffFD)
+[Find Coefficients](https://t-turner.github.io/coeffd)
