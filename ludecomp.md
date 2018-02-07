@@ -10,11 +10,11 @@ layout: default
 ### Language: C++
 
 ### Description/Purpose: 
-This program used LU decomposition to solve a system of linear equations.
+This program used LU decomposition to solve a system of linear equations. The relationship of nxn matrix to time is dramatic, its path log curve, but can be approximated using a 2nd order polynomial time=5E-7xn +0.0001*n.
 
 ### Input:
 The program requires the matrix A, and B be defined in the namespace.
-
+ 
 ### Output: 
 This program outputs the solution in the z array.
 
