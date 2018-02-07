@@ -4,7 +4,6 @@ layout: default
 ---
 
 ## Initial Conditions
-
 ### Name: initialcond
 ### Author: Trevor Turner
 ### Language: C++
@@ -77,4 +76,4 @@ void process_input()
 ```
 
 ### Last Modified:
-January 19, 2018
+February 7, 2018
