@@ -23,4 +23,4 @@ This site contains the code repository used in Math 5620. The code repository in
 ## Finite Difference
 
 ### Find coefficients
-[Find Coefficients](https://t-turner.github.io/coeffd)
+[Find Coefficients](https://t-turner.github.io/findcoeffd)
