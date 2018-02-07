@@ -8,7 +8,7 @@ layout: default
 ### Language: C++
 
 ### Description/Purpose: 
-This program uses the Thomas Algorithm to solve a tridiagonal matrix and will compute the time needed to solve the matrix.
+This program uses the Thomas Algorithm to solve a tridiagonal matrix and will compute the time needed to solve the matrix. The size of matrix n and time have a linear relationship of time = 2E-8 x n. 
 
 ### Input:
 The program requires an input for initial conditions and step size.
