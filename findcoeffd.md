@@ -1,5 +1,5 @@
 ---
-permalink: /findcoefFD
+permalink: /findcoeffd
 layout: default
 ---
 
