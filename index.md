@@ -1,29 +1,21 @@
-# Math 5620
+Math 5620
 This site contains the code repository used in Math 5620. The code repository includes functions, operators, and useful snippets of code that are used to solve partial and differential equations numerically.
 
 ## Basics:
-
-### Machine Epsilon
-[Code for Machine Epsilon](https://t-turner.github.io/epsilon)
-
-### Absolute and Relative Error
-[Code for Error](https://t-turner.github.io/error)
-
-### Initial Conditions
-[Conditions](https://t-turner.github.io/initialcond)
+### Machine Epsilon [Code for Machine Epsilon](https://t-turner.github.io/epsilon)
+### Absolute and Relative Error [Code for Error](https://t-turner.github.io/error)
+### Initial Conditions [Conditions](https://t-turner.github.io/initialcond)
+### Norms (P & Frobinius) [Norms](https://t-turner.github.io/norms)
 
 ## Solutions:
-
-### Simple ODE Solver dp/dt=a*p+b*p^2
-[ODE Solution](https://t-turner.github.io/ode1)
-
-### Spring mass damper RK solver mx"+cx'+kx=f(t)
-[Spring Mass Damper System](https://t-turner.github.io/ode2)
+### Simple ODE Solver dp/dt=a*p+b*p^2 [ODE Solution](https://t-turner.github.io/ode1)
+### Spring mass damper RK solver mx"+cx'+kx=f(t) [Spring Mass Damper System](https://t-turner.github.io/ode2)
 
 ## Finite Difference
+### Find coefficients [Find Coefficients](https://t-turner.github.io/findcoeffd)
+### Thomas Algorithm [Thomas algorithm](https://t-turner.github.io/thomasalg)
+### LU Decomposition [LU](https://t-turner.github.io/ludecomp)
+### Jacobi Iteration [Jacobi](https://t-turner.github.io/jacobi)
 
-### Find coefficients
-[Find Coefficients](https://t-turner.github.io/findcoeffd)
-
-### Thomas Algorithm
-[Thomas algorithm](https://t-turner.github.io/thomasalg)
+## Elliptic ODE
+### Thomas Algorithm using k=random [randthomas](https://t-turner.github.io/krandode)
