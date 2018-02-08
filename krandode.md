@@ -3,7 +3,7 @@ permalink: /krandode
 layout: default
 ---
 
-## Ellipitic ODE Solver
+## Elliptic ODE Solver
 ### Name: Elliptic ODE Solver
 ### Author: Trevor Turner
 ### Language: C++
