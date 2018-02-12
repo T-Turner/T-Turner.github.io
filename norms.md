@@ -1,10 +1,10 @@
----
+ ---
 permalink: /norms
 layout: default
 ---
 
 ## Norms
-### Name: P norms and Frobinius norm
+### Name: P norms and Frobinius norm for nxn matrix
 ### Author: Trevor Turner
 ### Language: C++
 
@@ -96,4 +96,4 @@ double frobnorm(double a[n][n])
 ```
 
 ### Last Modified:
-February 7, 2018
+February 12, 2018
