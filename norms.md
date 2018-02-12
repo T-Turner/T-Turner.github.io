@@ -4,7 +4,7 @@ layout: default
 ---
 
 ## Norms
-### Name: P norms and Frobinius norm for nxn matrix
+### Name: P norms and Frobinius norm for square matrix
 ### Author: Trevor Turner
 ### Language: C++
 
