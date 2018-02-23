@@ -6,7 +6,7 @@ This site contains the code repository used in Math 5620. The code repository in
 ### Absolute and Relative Error [Code for Error](https://t-turner.github.io/error)
 ### Initial Conditions [Conditions](https://t-turner.github.io/initialcond)
 ### Square Norms (P & Frobinius) [Square Norms](https://t-turner.github.io/norms)
-### Non-Square Norms (P1 and P infinity) [NonSquare Norms](https://t-turner.github.io/nmnorms)
+### Non-Square Norms (P1 and P infinity) [NonSquare Norms](https://t-turner.github.io/nmnorm)
 
 ## Solutions:
 ### Simple ODE Solver dp/dt=a*p+b*p^2 [ODE Solution](https://t-turner.github.io/ode1)
