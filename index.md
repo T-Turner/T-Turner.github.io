@@ -8,6 +8,10 @@ This site contains the code repository used in Math 5620. The code repository in
 ### Square Norms (P & Frobinius) [Square Norms](https://t-turner.github.io/norms)
 ### Non-Square Norms (P1 and P infinity) [NonSquare Norms](https://t-turner.github.io/nmnorm)
 
+## Eigen Values and Vectors
+### Power Iteration [Power iterate](https://t-turner.github.io/powmethod)
+### Inverse Power Method [Inverse Power Method](https://t-turner.github.io/invpow)
+
 ## Solutions:
 ### Simple ODE Solver dp/dt=a*p+b*p^2 [ODE Solution](https://t-turner.github.io/ode1)
 ### Spring mass damper RK solver mx"+cx'+kx=f(t) [Spring Mass Damper System](https://t-turner.github.io/ode2)
