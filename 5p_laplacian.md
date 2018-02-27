@@ -3,7 +3,7 @@ permalink: /5p_laplacian
 layout: default
 ---
 
-## Five Point Laplacian
+## Five Point Laplacian(still editing)
 ### Author: Trevor Turner
 ### Language: C++
 
