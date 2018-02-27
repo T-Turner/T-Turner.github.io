@@ -26,4 +26,4 @@ This site contains the code repository used in Math 5620. The code repository in
 ## Elliptic ODE
 ### Thomas Algorithm using k=random [randthomas](https://t-turner.github.io/krandode)
 ### 5 point Laplacian(still editiing)[5 point](https://t-turner.github.io/5p_laplacian)
-### 5 point Laplacian(still editiing)[5 point](https://t-turner.github.io/9p_laplacian)
+### 9 point Laplacian(still editiing)[9 point](https://t-turner.github.io/9p_laplacian)
