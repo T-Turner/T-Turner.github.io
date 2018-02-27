@@ -11,6 +11,7 @@ This site contains the code repository used in Math 5620. The code repository in
 ## Eigen Values and Vectors
 ### Power Iteration [Power iterate](https://t-turner.github.io/powmethod)
 ### Inverse Power Method [Inverse Power Method](https://t-turner.github.io/invpow)
+### Second Order Finite Difference [2nd Order FD](https://t-turner.github.io/eigen4fd)
 
 ## Solutions:
 ### Simple ODE Solver dp/dt=a*p+b*p^2 [ODE Solution](https://t-turner.github.io/ode1)
