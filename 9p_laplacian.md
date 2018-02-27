@@ -3,7 +3,7 @@ permalink: /9p_laplacian
 layout: default
 ---
 
-## Nine Point Laplacian
+## Nine Point Laplacian(still editing)
 ### Author: Trevor Turner
 ### Language: C++
 
