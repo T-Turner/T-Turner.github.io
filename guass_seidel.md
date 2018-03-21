@@ -8,7 +8,7 @@ layout: default
 ### Language: C++
 
 ### Description/Purpose: 
-Solves a diagonally dominant, or symmetric and positive definite system of equations.
+Solves a diagonally dominant, or symmetric and positive definite system of equations. The Guass-Seidel method requires less storage than a typical Jacobi iteration method and will also converge faster. 
 
 ### Input:
 requires the user to input the 'A' and 'B' matricies. 
