@@ -12,9 +12,14 @@ Solves a diagonally dominant, or symmetric and positive definite system of equat
 
 ### Input:
 requires the user to input the 'A' and 'B' matricies. 
+In the example shown: 
+3.0x - 0.1y - 0.2z = 7.85
+0.1x + 7.0y - 0.3z = -19.3
+-0.3x -0.2y + 10.0z = 71.4
 
 ### Output: 
 Outputs the solution of the linear system into a 1-D array called ans.
+For the example written it outputs the solution "3,-2.5,7".
 
 ### Usage:
 
