@@ -19,7 +19,9 @@ The solution to the ODE.
 ### Usage:
 This program requires that it be called in the following fashion:
 ```c++
-five_stencil(a);//a is the nxn matrix
+	setup(a, b, fill);
+	clean(a, b, A, B);
+	lu_decom(A, B);
 ```
 
 ### Implementation/Code:
