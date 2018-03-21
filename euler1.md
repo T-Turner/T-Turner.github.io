@@ -1,5 +1,5 @@
 ---
-permalink: /euler1 approximation
+permalink: /euler1
 layout: default
 ---
 
