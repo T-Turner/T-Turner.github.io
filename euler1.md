@@ -12,9 +12,12 @@ Solves a 1st order IVP ODE.
 
 ### Input:
 Input y at time initial, starting and ending time, number of iterations, and equation.
+Example: y'+2y=-3 * cos(t)*exp(-5 * t), Y(0)=-0.4
 
 ### Output: 
 Outputs the y at several time periods
+Example output: 
+y(0)=-0.4, y(1)=0.0658, y(3)=0.00123, y(6)=3.03E-, y(10)~0 approaching zero
 
 ### Usage:
 
