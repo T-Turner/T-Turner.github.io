@@ -16,6 +16,7 @@ This site contains the code repository used in Math 5620. The code repository in
 ## Solutions:
 ### Simple ODE Solver dp/dt=a*p+b*p^2 [ODE Solution](https://t-turner.github.io/ode1)
 ### Spring mass damper RK solver mx"+cx'+kx=f(t) [Spring Mass Damper System](https://t-turner.github.io/ode2)
+### First Order ODE Euler1 [Euler1](https://t-turner.github.io/euler1)
 
 ## Finite Difference
 ### Find coefficients [Find Coefficients](https://t-turner.github.io/findcoeffd)
@@ -25,5 +26,10 @@ This site contains the code repository used in Math 5620. The code repository in
 
 ## Elliptic ODE
 ### Thomas Algorithm using k=random [randthomas](https://t-turner.github.io/krandode)
-### 5 point Laplacian(still editiing)[5 point](https://t-turner.github.io/5p_laplacian)
-### 9 point Laplacian(still editiing)[9 point](https://t-turner.github.io/9p_laplacian)
+### 5 point Laplacian[5 point](https://t-turner.github.io/5p_laplacian)
+### 9 point Laplacian(still editing)[9 point](https://t-turner.github.io/9p_laplacian)
+
+## Linear Solvers
+### Guass Seidel [Guass_seidel](https://t-turner.github.io/guass_seidel)
+### Conjugate Gradient [Conjugate_Gradient](https://t-turner.github.io/conj_grad)
+
