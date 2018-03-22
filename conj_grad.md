@@ -38,12 +38,12 @@ These programs are implemented in the following manner.
 
 namespace
 {
-	const int n = 2;
-	double a[n][n] = { 4,1,1,3 };
-	double b[n][n] = { 1,0,2,0 };
+	const int n = 3;
+	double a[n][n] = { 10,-5,-4,-5,12,-6,-4,-6,10 };
+	double b[n][n] = { 10,0,0,-20,0,0,15,0,0 };
 	bool add = true, sub = false;
 	double r[n][n], x[n][n], alpha[n][n], trans[n][n], temp[n][n], p[n][n];
-	double temp1[n][n], temp2[n][n], rnew[n][n], rold[n][n];
+	double temp1[n][n], temp2[n][n], rnew[n][n], rold[n][n], beta[n][n];
 	double error = 0.000001;
 }
 
@@ -107,7 +107,7 @@ void f_alpha(double mata[n][n])//works
 	matmult(trans, mata, temp);
 	matmult(temp, p, temp2);
 	alpha[0][0] = rold[0][0] / temp2[0][0];
-	for(int i=1; i<n; ++i)
+	for (int i = 1; i<n; ++i)
 		alpha[i][i] = alpha[0][0];
 }
 
@@ -128,10 +128,10 @@ void rxnew(double mata[n][n])
 
 void pnew()
 {
-	zero(temp);
-	temp[0][0] = rnew[0][0] / rold[0][0];//beta
-	temp[1][1] = temp[0][0];
-	matmult(temp, p, temp1);
+	beta[0][0] = rnew[0][0] / rold[0][0];//beta
+	for (int i = 1; i < n; ++i)
+		beta[i][i] = beta[0][0];
+	matmult(beta, p, temp1);
 	mataddsub(r, temp1, p, add);
 	setequal(rold, rnew);
 }
