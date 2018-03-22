@@ -32,4 +32,4 @@ This site contains the code repository used in Math 5620. The code repository in
 ## Linear Solvers
 ### Guass Seidel [Guass_seidel](https://t-turner.github.io/guass_seidel)
 ### Conjugate Gradient [Conjugate_Gradient](https://t-turner.github.io/conj_grad)
-
+### Conjugate Gradient Solves 5 point Stencil [Conj grad](https://t-turner.github.io/5ps_conjgrad)
