@@ -21,6 +21,7 @@ This site contains the code repository used in Math 5620. The code repository in
 ### First Order ODE Explicit Euler [ExplicitEuler](https://t-turner.github.io/explicit_euler)
 ### First Order ODE Implicit Euler [ImplicitEuler](https://t-turner.github.io/implicit_euler)
 ### First Order ODE Runge Kutta 2nd and 4th order [RK24](https://t-turner.github.io/rungekutta)
+### First Order ODE Adams Bashwarth Corrected 4th order [AdamsBash](https://t-turner.github.io/adambash)
 
 ## Finite Difference
 ### Find coefficients [Find Coefficients](https://t-turner.github.io/findcoeffd)
