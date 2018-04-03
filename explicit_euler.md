@@ -11,11 +11,11 @@ layout: default
 Solves a first order ODE.
 
 ### Input:
-The user must input the left hand side of the equation if the form is y'=a*y+ect. that is the derivative of y is on the right and the left
+The user must input the left hand side of the equation if the form is y'=a(y)+ect. that is the derivative of y is on the right and the left
 side only contains y and t elements. THe user must also input the initial time and final time.
 
 ### Output: 
-The program will output the solution of the IVP in a table at evenky placed points between the initial and final times
+The program will output the solution of the IVP in a table at evenly placed points between the initial and final times
 
 ### Usage:
 The constants are defined in the function, and the initial and ending time is defined in the namespace.
