@@ -20,7 +20,7 @@ This site contains the code repository used in Math 5620. The code repository in
 ### First Order ODE Euler1 [Euler1](https://t-turner.github.io/euler1)
 ### First Order ODE Explicit Euler [ExplicitEuler](https://t-turner.github.io/explicit_euler)
 ### First Order ODE Implicit Euler [ImplicitEuler](https://t-turner.github.io/implicit_euler)
-
+### First Order ODE Runge Kutta 2nd and 4th order [RK24](https://t-turner.github.io/rungekutta)
 
 ## Finite Difference
 ### Find coefficients [Find Coefficients](https://t-turner.github.io/findcoeffd)
