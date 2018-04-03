@@ -18,6 +18,8 @@ This site contains the code repository used in Math 5620. The code repository in
 ### Simple IVP ODE Solver u'=constant(u) and p'=gamma(p)-beta(p^2) [IVP ODE](https://t-turner.github.io/populationivp)
 ### Spring mass damper RK solver mx"+cx'+kx=f(t) [Spring Mass Damper System](https://t-turner.github.io/ode2)
 ### First Order ODE Euler1 [Euler1](https://t-turner.github.io/euler1)
+### First Order ODE Explicit Euler [ExplicitEuler](https://t-turner.github.io/explicit_euler)
+
 
 ## Finite Difference
 ### Find coefficients [Find Coefficients](https://t-turner.github.io/findcoeffd)
