@@ -38,3 +38,10 @@ This site contains the code repository used in Math 5620. The code repository in
 ### Guass Seidel [Guass_seidel](https://t-turner.github.io/guass_seidel)
 ### Conjugate Gradient [Conjugate_Gradient](https://t-turner.github.io/conj_grad)
 ### Conjugate Gradient Solves 5 point Stencil [Conj grad](https://t-turner.github.io/5ps_conjgrad)
+
+## Homework 6
+### Explicit Euler Error Example [Problem#1](https://t-turner.github.io/prob6_1)
+### Implicit Euler Error Example [Problem#2](https://t-turner.github.io/prob6_2)
+### Explicit Euler Step Size Exercise [Problem#3](https://t-turner.github.io/prob6_3)
+
+
