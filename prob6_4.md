@@ -49,11 +49,11 @@ double f1(double x, double t)
 }
 double f2(double x, double t)
 {
-	return (-10 * (-cos(t)) - sin(t)) - x;
+	return -10 * (x - cos(t)) - sin(t);
 }
 double f3(double x, double t)
 {
-	return (-2100 * (-cos(t)) - sin(t)) - x;
+		return -2100 * (x - cos(t)) - sin(t);
 }
 
 double step1(double x, double t, double f(double, double))
