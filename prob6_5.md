@@ -1,5 +1,5 @@
 ---
-permalink: /prob6_1
+permalink: /prob6_5
 layout: default
 ---
 
