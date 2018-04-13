@@ -43,5 +43,6 @@ This site contains the code repository used in Math 5620. The code repository in
 ### Explicit Euler Error Example [Problem#1](https://t-turner.github.io/prob6_1)
 ### Implicit Euler Error Example [Problem#2](https://t-turner.github.io/prob6_2)
 ### Explicit Euler Step Size Exercise [Problem#3](https://t-turner.github.io/prob6_3)
-
+### Adam's Bashforth Error Example [Problem#4](https://t-turner.github.io/prob6_4)
+### Runge Kutta Error Example [Problem#5](https://t-turner.github.io/prob6_5)
 
