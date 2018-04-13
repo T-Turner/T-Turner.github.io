@@ -3,7 +3,7 @@ permalink: /prob6_5
 layout: default
 ---
 
-### Homework 6 Problem #1
+### Homework 6 Problem #5
 ### Author: Trevor Turner
 ### Language: C++
 
