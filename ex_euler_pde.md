@@ -8,7 +8,7 @@ layout: default
 ### Language: C++
 
 ### Description/Purpose: 
-Solves the heat equation
+Solves the heat equation with the initial boundary condition of U(x,0)=2 * x + sin(2 * pi*x) + 1. 
 
 ### Input:
 The only input required is the boundary conditions, beta, total time, initial condtition, and length.
