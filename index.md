@@ -45,6 +45,12 @@ This site contains the code repository used in Math 5620. The code repository in
 #### Conjugate Gradient [Conjugate_Gradient](https://t-turner.github.io/conj_grad)
 #### Conjugate Gradient Solves 5 point Stencil [Conj grad](https://t-turner.github.io/5ps_conjgrad)
 
+## Solution to the Hyperbolic Conservation Law
+#### Upwinding [upwind](https://t-turner.github.io/hyper_upwinding)
+#### Lax Wendorff [LaxW](https://t-turner.github.io/lax_wendorff)
+#### Warming & Beam [Warm&beam](https://t-turner.github.io/warming_beam)
+
+
 ## Homework 6
 #### Explicit Euler Error Example [Problem#1](https://t-turner.github.io/prob6_1)
 #### Implicit Euler Error Example [Problem#2](https://t-turner.github.io/prob6_2)
